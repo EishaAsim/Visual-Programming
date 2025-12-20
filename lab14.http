@@ -1,0 +1,10 @@
+@lab14_HostAddress = http://localhost:5261
+
+GET {{lab14_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+Send request | Debug
+Get {{lab14_HostAddress}}//api/Book
+Accept: application/json
+
